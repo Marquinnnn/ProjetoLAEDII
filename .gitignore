@@ -1,0 +1,4 @@
+src/restaurante
+src/restaurante.exe
+src/*.o
+build/
